@@ -4,7 +4,7 @@ package PK4;
 public class ED4_Clase1  {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Hola Clase: ");
+		System.out.print("Hola Clase Rama2: ");
 	}
 
 }
